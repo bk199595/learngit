@@ -1,2 +1,6 @@
 haha
+<<<<<<< HEAD
 hehe
+=======
+hehe
+>>>>>>> feature1
